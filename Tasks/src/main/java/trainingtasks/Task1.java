@@ -1,3 +1,5 @@
+package trainingtasks;
+
 import java.util.Scanner;
 
 public class Task1 {
